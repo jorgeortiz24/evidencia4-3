@@ -1,0 +1,25 @@
+[
+    {
+        "id":1,
+        "name": "Bombillo Led",
+        "Descripción": "12w",
+        "price": 9.500,
+        "img": "src/Imagenes/Bombillo 9w.jpg"
+    },
+
+    {
+        "id":2,
+        "name": "Lampara Led",
+        "Descripción": "24w",
+        "price": 15.000,
+        "img": "src/Imagenes/lampara-led-anti-polvo-36w-luz-blanca-120cm.jpg"
+    },
+
+    {
+        "id":3,
+        "name": "Panel Led",
+        "Descripción": "12w",
+        "price": 12.500,
+        "img": "src/Imagenes/IPL120_PANEL_LED_FRAMELESS_36W_SOBREPONER_6500K_1.jpg"
+    }
+]
